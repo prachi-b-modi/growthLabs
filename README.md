@@ -1,6 +1,6 @@
 # GrowthLabs
 
-🏆 **Winner of Best Use of Mixpanel Award at the Agent-to-Agent Hackathon**
+🏆 **Winner of Best Use of Mixpanel Award at the [Agent-to-Agent Hackathon](https://a2a-agents-hackathon.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio&_gl=1*fcrmas*_gcl_au*NDIzNzgxNzc5LjE3NTE0NDcxOTU.*_ga*MTk1NzMzNjY3MS4xNzQwNTQxMDc2*_ga_0YHJK3Y10M*czE3NTM3MTQyNDIkbzM5JGcxJHQxNzUzNzE0MzY5JGo3JGwwJGgw)**
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/prachis-projects-1f011128/v0-growth-labs-web-app)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/IA73DnulmNd)
