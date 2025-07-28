@@ -1,14 +1,100 @@
-# GrowthLabs web app
+# GrowthLabs
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+🏆 **Winner of Best Use of Mixpanel Award at the Agent-to-Agent Hackathon**
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/prachis-projects-1f011128/v0-growth-labs-web-app)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/IA73DnulmNd)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+GrowthLabs is an intelligent platform that automatically detects drops in user engagement and provides data-driven recommendations for recovery through A/B testing. The platform creates a complete feedback loop from detection to implementation, leveraging multiple AI agents and APIs for comprehensive growth optimization.
+
+## How It Works
+
+### 🔍 **Engagement Detection**
+- Monitors user engagement metrics using **Mixpanel** and **Arcade.dev**
+- Automatically detects significant drops in user activity and engagement patterns
+- Triggers alerts when engagement falls below predefined thresholds
+
+### 🌐 **Web Intelligence Gathering**
+- Scrapes relevant web insights using **Bright Data's Reddit Discovery API**
+- Collects real-time user sentiment and feedback from social platforms
+- Gathers competitive intelligence and market trends
+
+### 📊 **Sentiment Analysis**
+- Processes collected data through **Senso API** for advanced sentiment analysis
+- Identifies key pain points and user satisfaction trends
+- Provides actionable insights from user feedback
+
+### 🧪 **A/B Experiment Design**
+- Leverages **LLM-powered experiment designer** to generate hypothesis-driven A/B tests
+- Creates targeted experiments based on detected engagement drops
+- Optimizes test parameters for maximum impact
+
+### 🔄 **Human-in-the-Loop Validation**
+- Integrates human validation for experiment approval and refinement
+- Ensures quality control and business alignment
+- Maintains oversight while automating routine tasks
+
+### 🚀 **Automated Implementation**
+- **Slack integration** for team notifications and experiment updates
+- **Jira integration** for seamless project management and task tracking
+- Automated deployment of approved experiments
+
+## Architecture
+
+The platform consists of multiple specialized AI agents:
+
+- **Bright Data Agent**: Handles web scraping and data collection
+- **Experiment Designer**: Generates and optimizes A/B test hypotheses
+- **Mixpanel Evaluation**: Monitors and analyzes user engagement metrics
+- **Senso AI Agent**: Performs sentiment analysis and user feedback processing
+- **Orchestrator**: Coordinates all agents and manages the overall workflow
+
+## Technology Stack
+
+- **Frontend**: Next.js with TypeScript and Tailwind CSS
+- **Backend**: Python with multiple AI agents
+- **Analytics**: Mixpanel for user engagement tracking
+- **Data Collection**: Bright Data APIs for web scraping
+- **Sentiment Analysis**: Senso API
+- **Integration**: Slack and Jira APIs
+- **Deployment**: Vercel
+
+## Getting Started
+
+### Prerequisites
+- Node.js and pnpm
+- Python 3.8+
+- Mixpanel account
+- Bright Data API access
+- Senso API credentials
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd growthLabs
+```
+
+2. Install frontend dependencies:
+```bash
+pnpm install
+```
+
+3. Set up backend environment:
+```bash
+cd backend
+pip install -r requirements.txt
+```
+
+4. Configure environment variables for all API integrations
+
+5. Start the development server:
+```bash
+pnpm dev
+```
 
 ## Deployment
 
@@ -16,15 +102,14 @@ Your project is live at:
 
 **[https://vercel.com/prachis-projects-1f011128/v0-growth-labs-web-app](https://vercel.com/prachis-projects-1f011128/v0-growth-labs-web-app)**
 
-## Build your app
+## Contributing
 
-Continue building your app on:
+This project was built for the Agent-to-Agent Hackathon. For contributions or questions, please reach out to the development team.
 
-**[https://v0.dev/chat/projects/IA73DnulmNd](https://v0.dev/chat/projects/IA73DnulmNd)**
+## License
 
-## How It Works
+This project is licensed under the MIT License.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+*Built with ❤️ for the Agent-to-Agent Hackathon community*
