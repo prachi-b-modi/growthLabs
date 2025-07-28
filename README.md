@@ -5,6 +5,9 @@
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/prachis-projects-1f011128/v0-growth-labs-web-app)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/IA73DnulmNd)
 
+<img width="1429" height="790" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/3a2fb7bb-f720-4800-9c0f-03f1b6a3d6b2" />
+
+
 ## Overview
 
 GrowthLabs is an intelligent platform that automatically detects drops in user engagement and provides data-driven recommendations for recovery through A/B testing. The platform creates a complete feedback loop from detection to implementation, leveraging multiple AI and ambient agents and APIs for comprehensive growth optimization.
