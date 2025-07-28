@@ -7,7 +7,7 @@
 
 ## Overview
 
-GrowthLabs is an intelligent platform that automatically detects drops in user engagement and provides data-driven recommendations for recovery through A/B testing. The platform creates a complete feedback loop from detection to implementation, leveraging multiple AI agents and APIs for comprehensive growth optimization.
+GrowthLabs is an intelligent platform that automatically detects drops in user engagement and provides data-driven recommendations for recovery through A/B testing. The platform creates a complete feedback loop from detection to implementation, leveraging multiple AI and ambient agents and APIs for comprehensive growth optimization.
 
 ## How It Works
 
