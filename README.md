@@ -45,10 +45,12 @@ GrowthLabs is an intelligent platform that automatically detects drops in user e
 
 The platform consists of multiple specialized AI agents:
 
+
 - **Bright Data Agent**: Handles web scraping and data collection
-- **Experiment Designer**: Generates and optimizes A/B test hypotheses
-- **Mixpanel Evaluation**: Monitors and analyzes user engagement metrics
 - **Senso AI Agent**: Performs sentiment analysis and user feedback processing
+- **Arcade Agent**: Monitors and analyzes user engagement metrics
+- **LLM Agent**: Generates and optimizes A/B test hypotheses
+- **Ambient Agent**: Provides continuous monitoring and automated decision making
 - **Orchestrator**: Coordinates all agents and manages the overall workflow
 
 ## Technology Stack
