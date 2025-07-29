@@ -103,12 +103,6 @@ pip install -r requirements.txt
 pnpm dev
 ```
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/prachis-projects-1f011128/v0-growth-labs-web-app](https://vercel.com/prachis-projects-1f011128/v0-growth-labs-web-app)**
-
 ## Contributing
 
 This project was built for the Agent-to-Agent Hackathon. For contributions or questions, please reach out to the development team.
